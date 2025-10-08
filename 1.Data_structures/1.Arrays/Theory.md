@@ -1,6 +1,6 @@
 
 # Arrays (Lists)
-
+![Array Memory Representation](image.png)
 
 
 ## 🔹 What is a List?
@@ -120,6 +120,7 @@ squares = [x**2 for x in range(1, 6)]
 
 * Python lists **store references** to objects, not the objects themselves.
 * That’s why they can hold mixed types and are mutable.
+
 
 ```python
 a = [10, 20, 'GfG', 40, True]
